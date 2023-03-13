@@ -188,6 +188,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
       "packageUri": "lib/",
@@ -252,6 +258,12 @@
       "rootUri": "file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "random_string",
@@ -386,7 +398,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-02-18T14:37:05.231019Z",
+  "generated": "2023-03-13T07:30:44.617379Z",
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }

@@ -110,6 +110,10 @@ meta
 2.12
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0/
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0/lib/
+nested
+2.12
+file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/
+file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/lib/
 path
 2.12
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/
@@ -154,6 +158,10 @@ process
 2.14
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib/
+provider
+2.12
+file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.5/
+file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.5/lib/
 random_string
 2.12
 file:///Users/macbook/development/flutter/.pub-cache/hosted/pub.dartlang.org/random_string-2.3.1/
@@ -252,6 +260,6 @@ file:///Users/macbook/development/flutter/packages/flutter_web_plugins/
 file:///Users/macbook/development/flutter/packages/flutter_web_plugins/lib/
 spy
 2.18
-file:///Users/macbook/projects/spy/
-file:///Users/macbook/projects/spy/lib/
+file:///Users/macbook/projects/SpyGame-1.0.0/spy/
+file:///Users/macbook/projects/SpyGame-1.0.0/spy/lib/
 2

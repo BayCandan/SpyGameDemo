@@ -32,12 +32,12 @@ class Connect extends StatelessWidget {
               children: [
                 ListTile(
                   leading: Icon(Icons.email),
-                  title: Text(
+                  title: const Text(
                     'ecandan.dev@gmail.com',
                     textScaleFactor: 1.25,
                   ),
                 ),
-                ListTile(
+                const ListTile(
                   leading: FaIcon(FontAwesomeIcons.instagram),
                   title: Text(
                     '@candangram',

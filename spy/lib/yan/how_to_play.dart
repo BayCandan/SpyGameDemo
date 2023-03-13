@@ -1,22 +1,23 @@
 import 'package:flutter/material.dart';
 
+
 class HowToPlay extends StatelessWidget {
   const HowToPlay({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey,
-      appBar: AppBar(
-          backgroundColor: Colors.black38,
-          title: Text("Casus"),
-          shape: const RoundedRectangleBorder(
-            borderRadius: BorderRadius.only(
-              bottomRight: Radius.circular(25),
-              bottomLeft: Radius.circular(25),
+      drawer: Drawer(
+          child: SingleChildScrollView(
+              child: Container(
+            child: Column(
+              children: [
+              ],
             ),
-          ),
+          )),
         ),
+      backgroundColor: Colors.blueGrey,
+
       body: Center(
 
         child: Container(
@@ -31,8 +32,10 @@ class HowToPlay extends StatelessWidget {
     );
   }
   Widget NasilOynanir(){
-    return Text(textAlign: TextAlign.center,
+    return const Text(textAlign: TextAlign.center,
       style: TextStyle(fontSize: 20),
       "Oyuncularin her biri uzerinde loksayon olan bir kart alir, sadece casusun kartinin uzerinde lokasyon yerine casus yaziyodur. Oyuncular sırayla birbirlerine sorular sorarak casusu bulmaya çalışırlar. Casus, fark edilmeden kalmaya veya yerini tahmin etmeye çalışır. ");
   }
+  
 }
+
